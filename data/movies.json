@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Shrek",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Forrest Gump",
+      "rating": 5
+    },
+    {
+      "title": "Interstellar",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "War of the Worlds",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Guardians of the Galaxy",
+      "rating": 5
+    },
+    {
+      "title": "Lucy",
+      "rating": "5",
+      "id": 10
+    },
+    {
+      "title": "Minority Report",
+      "rating": "4",
+      "id": 11
+    },
+    {
+      "title": "Avatar",
+      "rating": "4",
+      "id": 12
+    },
+    {
+      "title": "White Chicks",
+      "rating": 5,
+      "id": 13
+    },
+    {
+      "title": "Fast X",
+      "rating": "4",
+      "id": 14
+    },
+    {
+      "title": "Avatar 2",
+      "rating": 4,
+      "id": 15
+    },
+    {
+      "title": "Trolls",
+      "rating": 5,
+      "id": 16
+    },
+    {
+      "title": "Harsh Times",
+      "rating": 5,
+      "id": 18
+    },
+    {
+      "title": "trolls 3",
+      "rating": 5,
+      "id": 19
+    }
+  ]
+}
